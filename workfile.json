@@ -1,0 +1,2495 @@
+[
+    {
+        "faction": "Death Guard ",
+        "team": " Scorched Earth Renegades",
+        "losses": [],
+        "wins": [
+            31,
+            31,
+            31,
+            32,
+            26,
+            26
+        ],
+        "itcPoints": 168.98,
+        "name": "Don Hooson",
+        "draws": [],
+        "swissPoints": "6177",
+        "placing": 1
+    },
+    {
+        "faction": "Imperial Knights ",
+        "team": " #REKT",
+        "losses": [],
+        "wins": [
+            21,
+            27,
+            28,
+            23,
+            33,
+            29
+        ],
+        "itcPoints": 154.66,
+        "name": "John Weyermuller",
+        "draws": [],
+        "swissPoints": "6161",
+        "placing": 2
+    },
+    {
+        "faction": "Catachan Jungle Fighters ",
+        "team": " Beast Coast",
+        "losses": [
+            26
+        ],
+        "wins": [
+            39,
+            40,
+            25,
+            34,
+            37
+        ],
+        "itcPoints": 130.31,
+        "name": "Jack Harpster",
+        "draws": [],
+        "swissPoints": "5201",
+        "placing": 3
+    },
+    {
+        "faction": "Adeptus Custodes ",
+        "team": " Team Zero Comp",
+        "losses": [
+            22
+        ],
+        "wins": [
+            33,
+            35,
+            39,
+            33,
+            34
+        ],
+        "itcPoints": 136.04,
+        "name": "Geoff Robinson",
+        "draws": [],
+        "swissPoints": "5196",
+        "placing": 4
+    },
+    {
+        "faction": "Imperial Knights ",
+        "team": " Los Borrachos",
+        "losses": [
+            22
+        ],
+        "wins": [
+            40,
+            38,
+            28,
+            28,
+            39
+        ],
+        "itcPoints": 120.29,
+        "name": "Mark Carrion",
+        "draws": [],
+        "swissPoints": "5195",
+        "placing": 5
+    },
+    {
+        "faction": "Thousand Sons ",
+        "team": " #REKT",
+        "losses": [
+            24
+        ],
+        "wins": [
+            31,
+            35,
+            37,
+            25,
+            42
+        ],
+        "itcPoints": 117.42,
+        "name": "Carlos Kaiser",
+        "draws": [],
+        "swissPoints": "5194",
+        "placing": 6
+    },
+    {
+        "faction": "Alaitoc ",
+        "team": " Invalid Command",
+        "losses": [
+            12
+        ],
+        "wins": [
+            32,
+            30,
+            34,
+            34,
+            36
+        ],
+        "itcPoints": 97.38,
+        "name": "Sean Morgan",
+        "draws": [],
+        "swissPoints": "5178",
+        "placing": 7
+    },
+    {
+        "faction": "Catachan Jungle Fighters ",
+        "team": " ",
+        "losses": [
+            18
+        ],
+        "wins": [
+            38,
+            30,
+            32,
+            32,
+            27
+        ],
+        "itcPoints": 94.51,
+        "name": "Mitchell Pelham",
+        "draws": [],
+        "swissPoints": "5177",
+        "placing": 8
+    },
+    {
+        "faction": "Ynnari ",
+        "team": " Relentless D",
+        "losses": [
+            23
+        ],
+        "wins": [
+            19,
+            33,
+            28,
+            30,
+            37
+        ],
+        "itcPoints": 91.65,
+        "name": "Nikhil Sinha",
+        "draws": [],
+        "swissPoints": "5170",
+        "placing": 9
+    },
+    {
+        "faction": "Astra Militarum ",
+        "team": " Mercy Killers",
+        "losses": [
+            14
+        ],
+        "wins": [
+            36,
+            26,
+            26,
+            28,
+            26
+        ],
+        "itcPoints": 83.06,
+        "name": "Josh Rosenstein",
+        "draws": [],
+        "swissPoints": "5156",
+        "placing": 10
+    },
+    {
+        "faction": "Dark Angels ",
+        "team": " Relentless D",
+        "losses": [
+            10
+        ],
+        "wins": [
+            34,
+            31,
+            32,
+            20,
+            28
+        ],
+        "itcPoints": 95.94,
+        "name": "Shaun Sharp",
+        "draws": [],
+        "swissPoints": "5155",
+        "placing": 11
+    },
+    {
+        "faction": "Imperial Knights ",
+        "team": " Mercy Killers",
+        "losses": [
+            18
+        ],
+        "wins": [
+            30,
+            26,
+            20,
+            26,
+            34
+        ],
+        "itcPoints": 100.24,
+        "name": "Ben Vaughan",
+        "draws": [],
+        "swissPoints": "5154",
+        "placing": 12
+    },
+    {
+        "faction": "Tau Empire ",
+        "team": " Left Coast Corsairs",
+        "losses": [
+            10
+        ],
+        "wins": [
+            20,
+            31,
+            24,
+            38,
+            20
+        ],
+        "itcPoints": 91.65,
+        "name": "Israel Sanchez",
+        "draws": [],
+        "swissPoints": "5143",
+        "placing": 13
+    },
+    {
+        "faction": "Thousand Sons ",
+        "team": " Fisto Roboto",
+        "losses": [
+            8
+        ],
+        "wins": [
+            23,
+            26,
+            24,
+            24,
+            33
+        ],
+        "itcPoints": 95.94,
+        "name": "Michael Timpe",
+        "draws": [],
+        "swissPoints": "5138",
+        "placing": 14
+    },
+    {
+        "faction": "Drukhari ",
+        "team": " Cobra Kai",
+        "losses": [
+            21
+        ],
+        "wins": [
+            32,
+            38,
+            27,
+            35
+        ],
+        "itcPoints": 88.78,
+        "name": "Jonathan Starks",
+        "draws": [],
+        "swissPoints": "4669",
+        "placing": 15
+    },
+    {
+        "faction": "Cult Mechanicus ",
+        "team": " Cobra Kai",
+        "losses": [
+            24,
+            19
+        ],
+        "wins": [
+            38,
+            39,
+            40,
+            26
+        ],
+        "itcPoints": 78.76,
+        "name": "Jason McKenzie",
+        "draws": [],
+        "swissPoints": "4186",
+        "placing": 16
+    },
+    {
+        "faction": "Alaitoc ",
+        "team": " #REKT",
+        "losses": [
+            18,
+            21
+        ],
+        "wins": [
+            35,
+            33,
+            34,
+            35
+        ],
+        "itcPoints": 87.35,
+        "name": "Jeff Poole",
+        "draws": [],
+        "swissPoints": "4176",
+        "placing": 17
+    },
+    {
+        "faction": "Hive Fleet Kraken ",
+        "team": " Mugu Legion",
+        "losses": [
+            19,
+            25
+        ],
+        "wins": [
+            32,
+            36,
+            32,
+            30
+        ],
+        "itcPoints": 91.65,
+        "name": "Colin Sherman",
+        "draws": [],
+        "swissPoints": "4174",
+        "placing": 18
+    },
+    {
+        "faction": "Tyranids ",
+        "team": " Relentless D",
+        "losses": [
+            21,
+            24
+        ],
+        "wins": [
+            30,
+            35,
+            28,
+            35
+        ],
+        "itcPoints": 83.06,
+        "name": "Michael Snider",
+        "draws": [],
+        "swissPoints": "4173",
+        "placing": 19
+    },
+    {
+        "faction": "T'au Sept ",
+        "team": " faultline",
+        "losses": [
+            10,
+            21
+        ],
+        "wins": [
+            36,
+            34,
+            34,
+            38
+        ],
+        "itcPoints": 83.06,
+        "name": "Brian Brian",
+        "draws": [],
+        "swissPoints": "4173",
+        "placing": 19
+    },
+    {
+        "faction": "Ynnari ",
+        "team": " Unbound",
+        "losses": [
+            18,
+            22
+        ],
+        "wins": [
+            36,
+            39,
+            26,
+            30
+        ],
+        "itcPoints": 85.2,
+        "name": "Daniel Olivas",
+        "draws": [],
+        "swissPoints": "4171",
+        "placing": 21
+    },
+    {
+        "faction": "Astra Militarum ",
+        "team": " ",
+        "losses": [
+            25,
+            16
+        ],
+        "wins": [
+            39,
+            36,
+            23,
+            32
+        ],
+        "itcPoints": 76.61,
+        "name": "Brandon Grant",
+        "draws": [],
+        "swissPoints": "4171",
+        "placing": 21
+    },
+    {
+        "faction": "Thousand Sons ",
+        "team": " ",
+        "losses": [
+            15,
+            12
+        ],
+        "wins": [
+            35,
+            30,
+            34,
+            39
+        ],
+        "itcPoints": 57.28,
+        "name": "Alex Hawley",
+        "draws": [],
+        "swissPoints": "4165",
+        "placing": 23
+    },
+    {
+        "faction": "Aeldari ",
+        "team": " Feel No Shame",
+        "losses": [
+            20,
+            10
+        ],
+        "wins": [
+            37,
+            30,
+            29,
+            37
+        ],
+        "itcPoints": 61.58,
+        "name": "Jesse Sell",
+        "draws": [],
+        "swissPoints": "4163",
+        "placing": 24
+    },
+    {
+        "faction": "Drukhari ",
+        "team": " Team Low Tier",
+        "losses": [
+            11,
+            26
+        ],
+        "wins": [
+            33,
+            28,
+            35,
+            28
+        ],
+        "itcPoints": 65.87,
+        "name": "James Brandetsas",
+        "draws": [],
+        "swissPoints": "4161",
+        "placing": 25
+    },
+    {
+        "faction": "Dark Angels ",
+        "team": " Mercy Killers",
+        "losses": [
+            8,
+            15
+        ],
+        "wins": [
+            37,
+            37,
+            35,
+            29
+        ],
+        "itcPoints": 70.17,
+        "name": "Aaron Wisch",
+        "draws": [],
+        "swissPoints": "4161",
+        "placing": 25
+    },
+    {
+        "faction": "Harlequins ",
+        "team": " Warhammered",
+        "losses": [
+            16,
+            22
+        ],
+        "wins": [
+            29,
+            29,
+            28,
+            36
+        ],
+        "itcPoints": 70.17,
+        "name": "Paul Bowman",
+        "draws": [],
+        "swissPoints": "4160",
+        "placing": 27
+    },
+    {
+        "faction": "Chaos Space Marines ",
+        "team": " Relentless D",
+        "losses": [
+            24,
+            12
+        ],
+        "wins": [
+            35,
+            28,
+            31,
+            29
+        ],
+        "itcPoints": 61.58,
+        "name": "Aaron Hayden",
+        "draws": [],
+        "swissPoints": "4159",
+        "placing": 28
+    },
+    {
+        "faction": "Imperial Knights ",
+        "team": " #REKT",
+        "losses": [
+            24,
+            17
+        ],
+        "wins": [
+            21,
+            28,
+            32,
+            36
+        ],
+        "itcPoints": 61.58,
+        "name": "Jason Wolfe",
+        "draws": [],
+        "swissPoints": "4158",
+        "placing": 29
+    },
+    {
+        "faction": "Alaitoc ",
+        "team": " ",
+        "losses": [
+            8,
+            19
+        ],
+        "wins": [
+            36,
+            37,
+            27,
+            27
+        ],
+        "itcPoints": 65.87,
+        "name": "Chris Nelson",
+        "draws": [],
+        "swissPoints": "4154",
+        "placing": 30
+    },
+    {
+        "faction": "Blood Angels ",
+        "team": " Left Coast Corsairs",
+        "losses": [
+            22,
+            21
+        ],
+        "wins": [
+            22,
+            26,
+            24,
+            36
+        ],
+        "itcPoints": 57.28,
+        "name": "Michael Schwartz",
+        "draws": [],
+        "swissPoints": "4151",
+        "placing": 31
+    },
+    {
+        "faction": "Aeldari ",
+        "team": " Meta Mafia",
+        "losses": [
+            8,
+            18
+        ],
+        "wins": [
+            33,
+            30,
+            28,
+            31
+        ],
+        "itcPoints": 61.58,
+        "name": "Tony Myers",
+        "draws": [],
+        "swissPoints": "4148",
+        "placing": 32
+    },
+    {
+        "faction": "Imperial Knights ",
+        "team": " Warhammered",
+        "losses": [
+            8,
+            19
+        ],
+        "wins": [
+            31,
+            33,
+            26,
+            30
+        ],
+        "itcPoints": 61.58,
+        "name": "Andrew Helland",
+        "draws": [],
+        "swissPoints": "4147",
+        "placing": 33
+    },
+    {
+        "faction": "Death Guard ",
+        "team": " ",
+        "losses": [
+            17,
+            18
+        ],
+        "wins": [
+            23,
+            32,
+            30,
+            24
+        ],
+        "itcPoints": 57.28,
+        "name": "Mitchell Woerner",
+        "draws": [],
+        "swissPoints": "4144",
+        "placing": 34
+    },
+    {
+        "faction": "Tau Empire ",
+        "team": " ",
+        "losses": [
+            16,
+            11
+        ],
+        "wins": [
+            21,
+            28,
+            38,
+            30
+        ],
+        "itcPoints": 57.28,
+        "name": "Aidan Hernandez",
+        "draws": [],
+        "swissPoints": "4144",
+        "placing": 34
+    },
+    {
+        "faction": "Tau Empire ",
+        "team": " Left Coast Corsairs",
+        "losses": [
+            17,
+            7
+        ],
+        "wins": [
+            32,
+            34,
+            25,
+            27
+        ],
+        "itcPoints": 65.87,
+        "name": "Paul McKelvey",
+        "draws": [],
+        "swissPoints": "4142",
+        "placing": 36
+    },
+    {
+        "faction": "Tyranids ",
+        "team": " Left Coast Corsairs",
+        "losses": [
+            23,
+            14
+        ],
+        "wins": [
+            24,
+            25,
+            26,
+            28
+        ],
+        "itcPoints": 65.87,
+        "name": "Domagoj Mitrovic",
+        "draws": [],
+        "swissPoints": "4140",
+        "placing": 37
+    },
+    {
+        "faction": "Nurgle Daemons ",
+        "team": " Salt Shakers ",
+        "losses": [
+            15,
+            18
+        ],
+        "wins": [
+            20,
+            18,
+            34,
+            30
+        ],
+        "itcPoints": 61.58,
+        "name": "Brian Spalliero ",
+        "draws": [],
+        "swissPoints": "4135",
+        "placing": 38
+    },
+    {
+        "faction": "Tau Empire ",
+        "team": " ",
+        "losses": [
+            7,
+            8
+        ],
+        "wins": [
+            16,
+            35,
+            35,
+            29
+        ],
+        "itcPoints": 61.58,
+        "name": "Arun Sharma",
+        "draws": [],
+        "swissPoints": "4130",
+        "placing": 39
+    },
+    {
+        "faction": "Knights Renegades ",
+        "team": " ",
+        "losses": [
+            9,
+            17
+        ],
+        "wins": [
+            28,
+            26,
+            20,
+            26
+        ],
+        "itcPoints": 65.87,
+        "name": "John Frank",
+        "draws": [],
+        "swissPoints": "4126",
+        "placing": 40
+    },
+    {
+        "faction": "Blood Angels ",
+        "team": " ",
+        "losses": [
+            22,
+            0
+        ],
+        "wins": [
+            16,
+            24,
+            30,
+            24
+        ],
+        "itcPoints": 70.17,
+        "name": "David Hetherington",
+        "draws": [],
+        "swissPoints": "4116",
+        "placing": 41
+    },
+    {
+        "faction": "T'au Sept ",
+        "team": " Harambe's Avengers",
+        "losses": [
+            8,
+            6
+        ],
+        "wins": [
+            22,
+            27,
+            18,
+            28
+        ],
+        "itcPoints": 65.87,
+        "name": "Garret Acord",
+        "draws": [],
+        "swissPoints": "4109",
+        "placing": 42
+    },
+    {
+        "faction": "Tau Empire ",
+        "team": " ",
+        "losses": [
+            6,
+            7
+        ],
+        "wins": [
+            28,
+            14,
+            11,
+            11
+        ],
+        "itcPoints": 57.28,
+        "name": "Mark Garma",
+        "draws": [],
+        "swissPoints": "4077",
+        "placing": 43
+    },
+    {
+        "faction": "Alaitoc ",
+        "team": " #REKT",
+        "losses": [
+            21,
+            20
+        ],
+        "wins": [
+            27,
+            30,
+            31
+        ],
+        "itcPoints": 63.01,
+        "name": "Allan Hernandez",
+        "draws": [],
+        "swissPoints": "3656",
+        "placing": 44
+    },
+    {
+        "faction": "Kabal of the Black Heart ",
+        "team": " Beerhammer",
+        "losses": [
+            10,
+            19
+        ],
+        "wins": [
+            35,
+            24,
+            30
+        ],
+        "itcPoints": 57.28,
+        "name": "Casey Herbst",
+        "draws": [],
+        "swissPoints": "3635",
+        "placing": 45
+    },
+    {
+        "faction": "Nurgle Daemons ",
+        "team": " Unbound",
+        "losses": [
+            12,
+            10
+        ],
+        "wins": [
+            33,
+            20,
+            33
+        ],
+        "itcPoints": 57.28,
+        "name": "George Macrodimitris",
+        "draws": [],
+        "swissPoints": "3625",
+        "placing": 46
+    },
+    {
+        "faction": "Genestealer Cult ",
+        "team": " Guild Of Calamitous Intent",
+        "losses": [
+            10,
+            15
+        ],
+        "wins": [
+            24,
+            31,
+            23
+        ],
+        "itcPoints": 57.28,
+        "name": "Jason Rockhill",
+        "draws": [],
+        "swissPoints": "3614",
+        "placing": 47
+    },
+    {
+        "faction": "Aeldari ",
+        "team": " faultline",
+        "losses": [
+            22,
+            5
+        ],
+        "wins": [
+            11,
+            27,
+            24
+        ],
+        "itcPoints": 47.26,
+        "name": "Aaron Johnson",
+        "draws": [],
+        "swissPoints": "3609",
+        "placing": 48
+    },
+    {
+        "faction": "Adeptus Custodes ",
+        "team": " War Room Gladiators",
+        "losses": [
+            17,
+            22,
+            25
+        ],
+        "wins": [
+            38,
+            40,
+            33
+        ],
+        "itcPoints": 47.26,
+        "name": "Benjamin Jurek",
+        "draws": [],
+        "swissPoints": "3175",
+        "placing": 49
+    },
+    {
+        "faction": "Blood Angels ",
+        "team": " Relentless D",
+        "losses": [
+            20,
+            25,
+            21
+        ],
+        "wins": [
+            39,
+            37,
+            30
+        ],
+        "itcPoints": 47.26,
+        "name": "pablo martinez",
+        "draws": [],
+        "swissPoints": "3172",
+        "placing": 50
+    },
+    {
+        "faction": "Necrons ",
+        "team": " Warhammered",
+        "losses": [
+            20,
+            20,
+            26
+        ],
+        "wins": [
+            38,
+            30,
+            32
+        ],
+        "itcPoints": 42.96,
+        "name": "Jessica Bowman",
+        "draws": [],
+        "swissPoints": "3166",
+        "placing": 51
+    },
+    {
+        "faction": "Imperial Knights ",
+        "team": " Meta Mafia",
+        "losses": [
+            13,
+            20,
+            27
+        ],
+        "wins": [
+            37,
+            27,
+            35
+        ],
+        "itcPoints": 42.96,
+        "name": "Nolan Cyr",
+        "draws": [],
+        "swissPoints": "3159",
+        "placing": 52
+    },
+    {
+        "faction": "Alaitoc ",
+        "team": " Palo Alto Problems",
+        "losses": [
+            26,
+            16,
+            20
+        ],
+        "wins": [
+            34,
+            29,
+            34
+        ],
+        "itcPoints": 47.26,
+        "name": "Noah Azarin",
+        "draws": [],
+        "swissPoints": "3159",
+        "placing": 52
+    },
+    {
+        "faction": "Grey Knights ",
+        "team": " Invalid Command",
+        "losses": [
+            16,
+            22,
+            22
+        ],
+        "wins": [
+            32,
+            32,
+            32
+        ],
+        "itcPoints": 42.96,
+        "name": "Shaylynn Allen",
+        "draws": [],
+        "swissPoints": "3156",
+        "placing": 54
+    },
+    {
+        "faction": "T'au Sept ",
+        "team": " Unbound",
+        "losses": [
+            8,
+            11,
+            24
+        ],
+        "wins": [
+            39,
+            33,
+            38
+        ],
+        "itcPoints": 47.26,
+        "name": "Henry Gridley",
+        "draws": [],
+        "swissPoints": "3153",
+        "placing": 55
+    },
+    {
+        "faction": "Necrons ",
+        "team": " Left Coast Corsairs",
+        "losses": [
+            18,
+            21,
+            15
+        ],
+        "wins": [
+            29,
+            35,
+            35
+        ],
+        "itcPoints": 51.55,
+        "name": "Alexander Gonzalez",
+        "draws": [],
+        "swissPoints": "3153",
+        "placing": 55
+    },
+    {
+        "faction": "Nurgle Daemons ",
+        "team": " Unbound",
+        "losses": [
+            14,
+            19,
+            17
+        ],
+        "wins": [
+            28,
+            36,
+            38
+        ],
+        "itcPoints": 42.96,
+        "name": "Troy Salewske",
+        "draws": [],
+        "swissPoints": "3152",
+        "placing": 57
+    },
+    {
+        "faction": "Imperial Knights ",
+        "team": " Unbound",
+        "losses": [
+            18,
+            20,
+            18
+        ],
+        "wins": [
+            35,
+            30,
+            30
+        ],
+        "itcPoints": 47.26,
+        "name": "Aaron Weisman",
+        "draws": [],
+        "swissPoints": "3151",
+        "placing": 58
+    },
+    {
+        "faction": "Tau Empire ",
+        "team": " 19th legion",
+        "losses": [
+            15,
+            12,
+            14
+        ],
+        "wins": [
+            34,
+            37,
+            38
+        ],
+        "itcPoints": 42.96,
+        "name": "Christopher Talley",
+        "draws": [],
+        "swissPoints": "3150",
+        "placing": 59
+    },
+    {
+        "faction": "Imperial Knights ",
+        "team": " #REKT",
+        "losses": [
+            20,
+            7,
+            21
+        ],
+        "wins": [
+            29,
+            37,
+            35
+        ],
+        "itcPoints": 47.26,
+        "name": "Adam Solis",
+        "draws": [],
+        "swissPoints": "3149",
+        "placing": 60
+    },
+    {
+        "faction": "Tyranids ",
+        "team": " Darkside Wargamers",
+        "losses": [
+            9,
+            20,
+            28
+        ],
+        "wins": [
+            36,
+            21,
+            30
+        ],
+        "itcPoints": 42.96,
+        "name": "Andy Gonzales",
+        "draws": [],
+        "swissPoints": "3144",
+        "placing": 61
+    },
+    {
+        "faction": "Ynnari ",
+        "team": " ",
+        "losses": [
+            20,
+            10,
+            24
+        ],
+        "wins": [
+            31,
+            21,
+            36
+        ],
+        "itcPoints": 42.96,
+        "name": "Stephen Hall",
+        "draws": [],
+        "swissPoints": "3142",
+        "placing": 62
+    },
+    {
+        "faction": "Adeptus Custodes ",
+        "team": " Fisto Roboto",
+        "losses": [
+            15,
+            19,
+            18
+        ],
+        "wins": [
+            29,
+            32,
+            28
+        ],
+        "itcPoints": 42.96,
+        "name": "William Farley",
+        "draws": [],
+        "swissPoints": "3141",
+        "placing": 63
+    },
+    {
+        "faction": "Death Guard ",
+        "team": " ",
+        "losses": [
+            18,
+            12,
+            20
+        ],
+        "wins": [
+            27,
+            27,
+            35
+        ],
+        "itcPoints": 51.55,
+        "name": "Alax Henderson",
+        "draws": [],
+        "swissPoints": "3139",
+        "placing": 64
+    },
+    {
+        "faction": "Cult Mechanicus ",
+        "team": " Palo Alto Problems",
+        "losses": [
+            19,
+            17,
+            10
+        ],
+        "wins": [
+            30,
+            35,
+            26
+        ],
+        "itcPoints": 47.26,
+        "name": "Peter Ferrell",
+        "draws": [],
+        "swissPoints": "3137",
+        "placing": 65
+    },
+    {
+        "faction": "Imperial Knights ",
+        "team": " ",
+        "losses": [
+            13,
+            14,
+            12
+        ],
+        "wins": [
+            29,
+            34,
+            34
+        ],
+        "itcPoints": 47.26,
+        "name": "Christopher  Pelletier",
+        "draws": [],
+        "swissPoints": "3136",
+        "placing": 66
+    },
+    {
+        "faction": "Thousand Sons ",
+        "team": " Meta Mafia",
+        "losses": [
+            15,
+            18,
+            9
+        ],
+        "wins": [
+            30,
+            30,
+            33
+        ],
+        "itcPoints": 42.96,
+        "name": "Adam Dye",
+        "draws": [],
+        "swissPoints": "3135",
+        "placing": 67
+    },
+    {
+        "faction": "Cult Mechanicus ",
+        "team": " ",
+        "losses": [
+            12,
+            11,
+            24
+        ],
+        "wins": [
+            30,
+            27,
+            29
+        ],
+        "itcPoints": 42.96,
+        "name": "Maxwell Hill",
+        "draws": [],
+        "swissPoints": "3133",
+        "placing": 68
+    },
+    {
+        "faction": "Adeptus Custodes ",
+        "team": " ",
+        "losses": [
+            6,
+            17,
+            19
+        ],
+        "wins": [
+            32,
+            25,
+            33
+        ],
+        "itcPoints": 47.26,
+        "name": "Ryan Murphy",
+        "draws": [],
+        "swissPoints": "3132",
+        "placing": 69
+    },
+    {
+        "faction": "Imperial Knights ",
+        "team": " ",
+        "losses": [
+            12,
+            11,
+            7
+        ],
+        "wins": [
+            37,
+            34,
+            30
+        ],
+        "itcPoints": 42.96,
+        "name": "Derrick Stenson",
+        "draws": [],
+        "swissPoints": "3131",
+        "placing": 70
+    },
+    {
+        "faction": "Imperial Knights ",
+        "team": " Meta Mafia",
+        "losses": [
+            16,
+            12,
+            4
+        ],
+        "wins": [
+            35,
+            31,
+            32
+        ],
+        "itcPoints": 55.85,
+        "name": "Karl Mccamish",
+        "draws": [],
+        "swissPoints": "3130",
+        "placing": 71
+    },
+    {
+        "faction": "Alaitoc ",
+        "team": " team misfire",
+        "losses": [
+            10,
+            11,
+            27
+        ],
+        "wins": [
+            31,
+            21,
+            21
+        ],
+        "itcPoints": 51.55,
+        "name": "Justin Gomes",
+        "draws": [],
+        "swissPoints": "3121",
+        "placing": 72
+    },
+    {
+        "faction": "T'au Sept ",
+        "team": " The 13th Legion",
+        "losses": [
+            9,
+            11,
+            11
+        ],
+        "wins": [
+            28,
+            34,
+            28
+        ],
+        "itcPoints": 42.96,
+        "name": "William Wilson",
+        "draws": [],
+        "swissPoints": "3121",
+        "placing": 72
+    },
+    {
+        "faction": "Tyranids ",
+        "team": " ",
+        "losses": [
+            7,
+            10,
+            14
+        ],
+        "wins": [
+            33,
+            32,
+            21
+        ],
+        "itcPoints": 47.26,
+        "name": "Will Trovato",
+        "draws": [],
+        "swissPoints": "3117",
+        "placing": 74
+    },
+    {
+        "faction": "Genestealer Cult ",
+        "team": " Warhammered",
+        "losses": [
+            12,
+            12,
+            11
+        ],
+        "wins": [
+            31,
+            23,
+            27
+        ],
+        "itcPoints": 42.96,
+        "name": "Vincent Weibert",
+        "draws": [],
+        "swissPoints": "3116",
+        "placing": 75
+    },
+    {
+        "faction": "Chaos Daemons ",
+        "team": " team misfire",
+        "losses": [
+            5,
+            11
+        ],
+        "wins": [
+            27,
+            27
+        ],
+        "itcPoints": 42.96,
+        "name": "Joshua Galvez",
+        "draws": [],
+        "swissPoints": "3113",
+        "placing": 76
+    },
+    {
+        "faction": "Adeptus Astartes ",
+        "team": " Meta Mafia",
+        "losses": [
+            17,
+            2,
+            8
+        ],
+        "wins": [
+            28,
+            29,
+            29
+        ],
+        "itcPoints": 51.55,
+        "name": "John Schroeder ",
+        "draws": [],
+        "swissPoints": "3113",
+        "placing": 76
+    },
+    {
+        "faction": "Deathwatch ",
+        "team": " Harambe's Avengers",
+        "losses": [
+            8,
+            17,
+            6
+        ],
+        "wins": [
+            20,
+            31,
+            30
+        ],
+        "itcPoints": 42.96,
+        "name": "Cameron Mitchell",
+        "draws": [],
+        "swissPoints": "3112",
+        "placing": 78
+    },
+    {
+        "faction": "Necrons ",
+        "team": " ",
+        "losses": [
+            22,
+            22,
+            10
+        ],
+        "wins": [
+            35,
+            29
+        ],
+        "itcPoints": 42.96,
+        "name": "Cole Lorch",
+        "draws": [],
+        "swissPoints": "2641",
+        "placing": 79
+    },
+    {
+        "faction": "Tau Empire ",
+        "team": " Team Low Tier",
+        "losses": [
+            18,
+            19,
+            16
+        ],
+        "wins": [
+            28,
+            23
+        ],
+        "itcPoints": 42.96,
+        "name": "chris vu",
+        "draws": [],
+        "swissPoints": "2627",
+        "placing": 80
+    },
+    {
+        "faction": "Tyranids ",
+        "team": " ",
+        "losses": [
+            14,
+            12,
+            10
+        ],
+        "wins": [
+            35,
+            24
+        ],
+        "itcPoints": 42.96,
+        "name": "Michael Rhine",
+        "draws": [],
+        "swissPoints": "2619",
+        "placing": 81
+    },
+    {
+        "faction": "Chaos Space Marines ",
+        "team": " Meta Mafia",
+        "losses": [
+            14,
+            16,
+            18
+        ],
+        "wins": [
+            28,
+            19
+        ],
+        "itcPoints": 42.96,
+        "name": "Daniel Katz",
+        "draws": [],
+        "swissPoints": "2619",
+        "placing": 81
+    },
+    {
+        "faction": "Astra Militarum ",
+        "team": " LowTier",
+        "losses": [
+            10,
+            10,
+            21
+        ],
+        "wins": [
+            26,
+            28
+        ],
+        "itcPoints": 42.96,
+        "name": "Bill Durrett",
+        "draws": [],
+        "swissPoints": "2615",
+        "placing": 83
+    },
+    {
+        "faction": "World Eaters ",
+        "team": " Team Zero Comp",
+        "losses": [
+            22,
+            0
+        ],
+        "wins": [
+            37,
+            34
+        ],
+        "itcPoints": 52.98,
+        "name": "James Carmona",
+        "draws": [],
+        "swissPoints": "2609",
+        "placing": 84
+    },
+    {
+        "faction": "Cadian Shock Troops ",
+        "team": " Brohammer",
+        "losses": [
+            17,
+            8,
+            22
+        ],
+        "wins": [
+            17,
+            9
+        ],
+        "itcPoints": 42.96,
+        "name": "Timothy Dierdorff",
+        "draws": [],
+        "swissPoints": "2599",
+        "placing": 85
+    },
+    {
+        "faction": "Tyranids ",
+        "team": " Space Hamsters",
+        "losses": [
+            24,
+            23,
+            21,
+            25
+        ],
+        "wins": [
+            37,
+            23
+        ],
+        "itcPoints": 28.64,
+        "name": "Rich Mahoney",
+        "draws": [],
+        "swissPoints": "2153",
+        "placing": 86
+    },
+    {
+        "faction": "Chaos Space Marines ",
+        "team": " War Room Gladiators",
+        "losses": [
+            15,
+            22,
+            23
+        ],
+        "wins": [
+            27
+        ],
+        "itcPoints": 34.37,
+        "name": "JOSHUA JENNE",
+        "draws": [],
+        "swissPoints": "2140",
+        "placing": 87
+    },
+    {
+        "faction": "Death Guard ",
+        "team": " Harambe's Avengers",
+        "losses": [
+            22,
+            21,
+            21,
+            17
+        ],
+        "wins": [
+            28,
+            30
+        ],
+        "itcPoints": 32.94,
+        "name": "James Strickland",
+        "draws": [],
+        "swissPoints": "2139",
+        "placing": 88
+    },
+    {
+        "faction": "Tau Empire ",
+        "team": " Purple Unicorns",
+        "losses": [
+            13,
+            19,
+            20,
+            11
+        ],
+        "wins": [
+            41,
+            34
+        ],
+        "itcPoints": 32.94,
+        "name": "Kevin Lantz",
+        "draws": [],
+        "swissPoints": "2138",
+        "placing": 89
+    },
+    {
+        "faction": "Grey Knights ",
+        "team": " ",
+        "losses": [
+            20,
+            21,
+            16,
+            15
+        ],
+        "wins": [
+            32,
+            31
+        ],
+        "itcPoints": 28.64,
+        "name": "Clinton Carter",
+        "draws": [],
+        "swissPoints": "2135",
+        "placing": 90
+    },
+    {
+        "faction": "Tallarn ",
+        "team": " faultline",
+        "losses": [
+            22,
+            11,
+            22,
+            20
+        ],
+        "wins": [
+            33,
+            27
+        ],
+        "itcPoints": 32.94,
+        "name": "Joseph  Hillegass ",
+        "draws": [],
+        "swissPoints": "2135",
+        "placing": 90
+    },
+    {
+        "faction": "Thousand Sons ",
+        "team": " Team Zero Comp",
+        "losses": [
+            22,
+            13,
+            8,
+            15
+        ],
+        "wins": [
+            38,
+            26
+        ],
+        "itcPoints": 28.64,
+        "name": "Dan May",
+        "draws": [],
+        "swissPoints": "2122",
+        "placing": 92
+    },
+    {
+        "faction": "Space Wolves ",
+        "team": " team misfire",
+        "losses": [
+            20,
+            26,
+            11,
+            18
+        ],
+        "wins": [
+            23,
+            23
+        ],
+        "itcPoints": 28.64,
+        "name": "Larry  DeTomasi ",
+        "draws": [],
+        "swissPoints": "2121",
+        "placing": 93
+    },
+    {
+        "faction": "Death Guard ",
+        "team": " Twin Linked",
+        "losses": [
+            19,
+            17,
+            4,
+            21
+        ],
+        "wins": [
+            29,
+            31
+        ],
+        "itcPoints": 28.64,
+        "name": "David Singer",
+        "draws": [],
+        "swissPoints": "2121",
+        "placing": 93
+    },
+    {
+        "faction": "Death Guard ",
+        "team": " ",
+        "losses": [
+            17,
+            14,
+            19
+        ],
+        "wins": [
+            35,
+            32
+        ],
+        "itcPoints": 37.23,
+        "name": "Luc Jessick",
+        "draws": [],
+        "swissPoints": "2117",
+        "placing": 95
+    },
+    {
+        "faction": "Imperial Knights ",
+        "team": " Black Diamond ",
+        "losses": [
+            15,
+            7,
+            18,
+            26
+        ],
+        "wins": [
+            31,
+            20
+        ],
+        "itcPoints": 28.64,
+        "name": "Pablo  Caballero ",
+        "draws": [],
+        "swissPoints": "2117",
+        "placing": 95
+    },
+    {
+        "faction": "Necrons ",
+        "team": " Feel No Shame",
+        "losses": [
+            15,
+            12,
+            21,
+            10
+        ],
+        "wins": [
+            32,
+            26
+        ],
+        "itcPoints": 28.64,
+        "name": "Chris Winters",
+        "draws": [],
+        "swissPoints": "2116",
+        "placing": 97
+    },
+    {
+        "faction": "Imperial Knights ",
+        "team": " Faultline40k",
+        "losses": [
+            17,
+            10,
+            10,
+            11
+        ],
+        "wins": [
+            32,
+            35
+        ],
+        "itcPoints": 32.94,
+        "name": "Matthew Lee",
+        "draws": [],
+        "swissPoints": "2115",
+        "placing": 98
+    },
+    {
+        "faction": "Cult Mechanicus ",
+        "team": " ",
+        "losses": [
+            17,
+            18,
+            12,
+            10
+        ],
+        "wins": [
+            22,
+            35
+        ],
+        "itcPoints": 32.94,
+        "name": "Greg Markman",
+        "draws": [],
+        "swissPoints": "2114",
+        "placing": 99
+    },
+    {
+        "faction": "Hive Fleet Leviathan ",
+        "team": " ",
+        "losses": [
+            20,
+            19,
+            24
+        ],
+        "wins": [
+            28,
+            22
+        ],
+        "itcPoints": 28.64,
+        "name": "Julian Houghtby",
+        "draws": [],
+        "swissPoints": "2113",
+        "placing": 100
+    },
+    {
+        "faction": "Harlequins ",
+        "team": " ",
+        "losses": [
+            15,
+            12,
+            9,
+            13
+        ],
+        "wins": [
+            30,
+            33
+        ],
+        "itcPoints": 28.64,
+        "name": "Sam Alexander",
+        "draws": [],
+        "swissPoints": "2112",
+        "placing": 101
+    },
+    {
+        "faction": "Aeldari ",
+        "team": " Salt Shakers ",
+        "losses": [
+            16,
+            14,
+            20,
+            8
+        ],
+        "wins": [
+            20,
+            28
+        ],
+        "itcPoints": 28.64,
+        "name": "Miguel  Jimenez",
+        "draws": [],
+        "swissPoints": "2106",
+        "placing": 102
+    },
+    {
+        "faction": "Adeptus Custodes ",
+        "team": " ",
+        "losses": [
+            19,
+            13,
+            13
+        ],
+        "wins": [
+            31,
+            29
+        ],
+        "itcPoints": 32.94,
+        "name": "Colin Miller",
+        "draws": [],
+        "swissPoints": "2105",
+        "placing": 103
+    },
+    {
+        "faction": "Necrons ",
+        "team": " Team Low Tier",
+        "losses": [
+            3,
+            13,
+            18,
+            5
+        ],
+        "wins": [
+            20,
+            30
+        ],
+        "itcPoints": 28.64,
+        "name": "Jonathan Ma",
+        "draws": [],
+        "swissPoints": "2089",
+        "placing": 104
+    },
+    {
+        "faction": "Blood Angels ",
+        "team": " team misfire",
+        "losses": [
+            21,
+            12,
+            7,
+            9
+        ],
+        "wins": [
+            23,
+            17
+        ],
+        "itcPoints": 28.64,
+        "name": "brett van bebber",
+        "draws": [],
+        "swissPoints": "2089",
+        "placing": 104
+    },
+    {
+        "faction": "Blood Angels ",
+        "team": " ",
+        "losses": [
+            21,
+            5,
+            7,
+            11
+        ],
+        "wins": [
+            18,
+            18
+        ],
+        "itcPoints": 28.64,
+        "name": "jade scott",
+        "draws": [],
+        "swissPoints": "2080",
+        "placing": 106
+    },
+    {
+        "faction": "Drukhari ",
+        "team": " ",
+        "losses": [
+            16,
+            5,
+            17
+        ],
+        "wins": [
+            27,
+            15
+        ],
+        "itcPoints": 28.64,
+        "name": "Dylan Campiotti",
+        "draws": [],
+        "swissPoints": "2080",
+        "placing": 106
+    },
+    {
+        "faction": "Adeptus Custodes ",
+        "team": " Salt Shakers ",
+        "losses": [
+            20,
+            25,
+            15,
+            23
+        ],
+        "wins": [
+            36
+        ],
+        "itcPoints": 28.64,
+        "name": "Chris Jones",
+        "draws": [],
+        "swissPoints": "1644",
+        "placing": 108
+    },
+    {
+        "faction": "Imperial Knights ",
+        "team": " ",
+        "losses": [
+            20,
+            19,
+            24,
+            25
+        ],
+        "wins": [
+            27
+        ],
+        "itcPoints": 32.94,
+        "name": "Lee Thurston",
+        "draws": [],
+        "swissPoints": "1640",
+        "placing": 109
+    },
+    {
+        "faction": "Astra Militarum ",
+        "team": " Dragon\u2019s Rage",
+        "losses": [
+            9,
+            20,
+            19,
+            27
+        ],
+        "wins": [
+            33
+        ],
+        "itcPoints": 28.64,
+        "name": "Doc Dragon",
+        "draws": [],
+        "swissPoints": "1632",
+        "placing": 110
+    },
+    {
+        "faction": "Blood Angels ",
+        "team": " ",
+        "losses": [
+            16,
+            24,
+            13,
+            17
+        ],
+        "wins": [
+            35
+        ],
+        "itcPoints": 32.94,
+        "name": "Jon Machado",
+        "draws": [],
+        "swissPoints": "1629",
+        "placing": 111
+    },
+    {
+        "faction": "Orks ",
+        "team": " Harambe's Avengers",
+        "losses": [
+            18,
+            12,
+            16,
+            15
+        ],
+        "wins": [
+            30
+        ],
+        "itcPoints": 28.64,
+        "name": "Stacey Block",
+        "draws": [],
+        "swissPoints": "1614",
+        "placing": 112
+    },
+    {
+        "faction": "Death Guard ",
+        "team": " Team Zero Comp",
+        "losses": [
+            15,
+            9,
+            13,
+            20
+        ],
+        "wins": [
+            24
+        ],
+        "itcPoints": 32.94,
+        "name": "Hank Rockhill",
+        "draws": [],
+        "swissPoints": "1601",
+        "placing": 113
+    },
+    {
+        "faction": "Kabal of the Black Heart ",
+        "team": " Space Hamsters",
+        "losses": [
+            14,
+            13,
+            13,
+            20
+        ],
+        "wins": [
+            22
+        ],
+        "itcPoints": 28.64,
+        "name": "Zachary Wilson",
+        "draws": [],
+        "swissPoints": "1593",
+        "placing": 114
+    },
+    {
+        "faction": "Ultramarines ",
+        "team": " Fisto Roboto",
+        "losses": [
+            22,
+            15,
+            18,
+            21,
+            15
+        ],
+        "wins": [
+            27
+        ],
+        "itcPoints": 28.64,
+        "name": "Alex Gannaway",
+        "draws": [],
+        "swissPoints": "1118",
+        "placing": 115
+    },
+    {
+        "faction": "Ultramarines ",
+        "team": " Brohammer",
+        "losses": [
+            12,
+            15,
+            11,
+            16,
+            9
+        ],
+        "wins": [
+            26
+        ],
+        "itcPoints": 28.64,
+        "name": "Peter Stefancik",
+        "draws": [],
+        "swissPoints": "1089",
+        "placing": 116
+    },
+    {
+        "faction": "Blood Angels ",
+        "team": " ",
+        "losses": [
+            9,
+            23,
+            9,
+            10,
+            13
+        ],
+        "wins": [
+            23
+        ],
+        "itcPoints": 28.64,
+        "name": "Andy DeMaria",
+        "draws": [],
+        "swissPoints": "1087",
+        "placing": 117
+    },
+    {
+        "faction": "Raven Guard ",
+        "team": " ",
+        "losses": [
+            5,
+            12,
+            16,
+            11,
+            17
+        ],
+        "wins": [
+            20
+        ],
+        "itcPoints": 28.64,
+        "name": "Eric Buchanan",
+        "draws": [],
+        "swissPoints": "1081",
+        "placing": 118
+    },
+    {
+        "faction": "Militarum Tempestus ",
+        "team": " ",
+        "losses": [
+            22,
+            15,
+            19,
+            0
+        ],
+        "wins": [
+            22
+        ],
+        "itcPoints": 28.64,
+        "name": "Nicholas Lozano",
+        "draws": [],
+        "swissPoints": "1078",
+        "placing": 119
+    },
+    {
+        "faction": "Harlequins ",
+        "team": " ",
+        "losses": [
+            8,
+            12,
+            15,
+            13,
+            13
+        ],
+        "wins": [
+            16
+        ],
+        "itcPoints": 28.64,
+        "name": "Kirk Lund",
+        "draws": [],
+        "swissPoints": "1077",
+        "placing": 120
+    },
+    {
+        "faction": "Ynnari ",
+        "team": " ",
+        "losses": [
+            16,
+            17,
+            0
+        ],
+        "wins": [
+            38
+        ],
+        "itcPoints": 28.64,
+        "name": "Adam Kinmont",
+        "draws": [],
+        "swissPoints": "1071",
+        "placing": 121
+    },
+    {
+        "faction": "Grey Knights ",
+        "team": " Mercy Killers",
+        "losses": [
+            20,
+            6,
+            10
+        ],
+        "wins": [
+            35
+        ],
+        "itcPoints": 28.64,
+        "name": "Gordon Danke",
+        "draws": [],
+        "swissPoints": "1071",
+        "placing": 121
+    },
+    {
+        "faction": "Sautekh ",
+        "team": " ",
+        "losses": [
+            25,
+            9,
+            0
+        ],
+        "wins": [
+            33
+        ],
+        "itcPoints": 28.64,
+        "name": "Michael Celeste",
+        "draws": [],
+        "swissPoints": "1067",
+        "placing": 123
+    },
+    {
+        "faction": "Hive Fleet Jormungandr ",
+        "team": " Meta Mafia",
+        "losses": [
+            25,
+            14
+        ],
+        "wins": [
+            24
+        ],
+        "itcPoints": 28.64,
+        "name": "Rickey Lane",
+        "draws": [],
+        "swissPoints": "1063",
+        "placing": 124
+    },
+    {
+        "faction": "Renegades and Heretics ",
+        "team": " Meta Mafia",
+        "losses": [
+            13,
+            18
+        ],
+        "wins": [
+            31
+        ],
+        "itcPoints": 28.64,
+        "name": "Domenic Grove",
+        "draws": [],
+        "swissPoints": "1062",
+        "placing": 125
+    },
+    {
+        "faction": "Adeptus Custodes ",
+        "team": " ",
+        "losses": [
+            22,
+            15,
+            0
+        ],
+        "wins": [
+            23
+        ],
+        "itcPoints": 32.94,
+        "name": "Dave Ruthenberg",
+        "draws": [],
+        "swissPoints": "1060",
+        "placing": 126
+    },
+    {
+        "faction": "Astra Militarum ",
+        "team": " ",
+        "losses": [
+            6,
+            14,
+            8,
+            11
+        ],
+        "wins": [
+            18
+        ],
+        "itcPoints": 28.64,
+        "name": "Tyler Norwood",
+        "draws": [],
+        "swissPoints": "1057",
+        "placing": 127
+    },
+    {
+        "faction": "Deathwatch ",
+        "team": " ",
+        "losses": [
+            14,
+            15,
+            0
+        ],
+        "wins": [
+            25
+        ],
+        "itcPoints": 28.64,
+        "name": "David Faris",
+        "draws": [],
+        "swissPoints": "1054",
+        "placing": 128
+    },
+    {
+        "faction": "Alaitoc ",
+        "team": " Rage Quit Table Flip",
+        "losses": [
+            15
+        ],
+        "wins": [
+            36
+        ],
+        "itcPoints": 32.94,
+        "name": "Grant Van Den Bosch",
+        "draws": [],
+        "swissPoints": "1051",
+        "placing": 129
+    },
+    {
+        "faction": "Hive Fleet Behemoth ",
+        "team": " ",
+        "losses": [
+            14,
+            15,
+            20,
+            17,
+            20,
+            14
+        ],
+        "wins": [],
+        "itcPoints": 28.64,
+        "name": "Drew Alexander",
+        "draws": [],
+        "swissPoints": "100",
+        "placing": 130
+    },
+    {
+        "faction": "Tau Empire ",
+        "team": " ",
+        "losses": [
+            26,
+            13,
+            22,
+            0
+        ],
+        "wins": [],
+        "itcPoints": 28.64,
+        "name": "Brian Jones",
+        "draws": [],
+        "swissPoints": "61",
+        "placing": 131
+    },
+    {
+        "faction": "Cadian Shock Troops ",
+        "team": " Wolf Brothers",
+        "losses": [
+            18,
+            16,
+            20,
+            0
+        ],
+        "wins": [],
+        "itcPoints": 28.64,
+        "name": "Michael Briones",
+        "draws": [],
+        "swissPoints": "54",
+        "placing": 132
+    },
+    {
+        "faction": "Asuryani ",
+        "team": " ",
+        "losses": [
+            11,
+            15,
+            12,
+            0
+        ],
+        "wins": [],
+        "itcPoints": 28.64,
+        "name": "Peter Ifurung",
+        "draws": [],
+        "swissPoints": "38",
+        "placing": 133
+    },
+    {
+        "faction": "Necrons ",
+        "team": " ",
+        "losses": [
+            16,
+            14,
+            2,
+            0
+        ],
+        "wins": [],
+        "itcPoints": 28.64,
+        "name": "Brandon Kieffer",
+        "draws": [],
+        "swissPoints": "32",
+        "placing": 134
+    },
+    {
+        "faction": "Chaos ",
+        "team": " Guild Of Calamitous Intent",
+        "losses": [
+            16
+        ],
+        "wins": [],
+        "itcPoints": 28.64,
+        "name": "Eric Johnsen",
+        "draws": [],
+        "swissPoints": "16",
+        "placing": 135
+    }
+]
