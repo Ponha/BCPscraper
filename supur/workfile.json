@@ -1,0 +1,93 @@
+[
+    {
+        "swissPoints": "2546",
+        "team": " ",
+        "wins": [
+            19,
+            19
+        ],
+        "name": "David Arellano",
+        "itcPoints": 0.0,
+        "placing": 1,
+        "losses": [],
+        "draws": [],
+        "faction": "Drukhari "
+    },
+    {
+        "swissPoints": "2543",
+        "team": " VWG",
+        "wins": [
+            17,
+            18
+        ],
+        "name": "Matthew Burgett",
+        "itcPoints": 0.0,
+        "placing": 2,
+        "losses": [],
+        "draws": [],
+        "faction": "Death Guard "
+    },
+    {
+        "swissPoints": "2033",
+        "team": " Gerards ",
+        "wins": [
+            17,
+            16
+        ],
+        "name": "Taylor Glaser",
+        "itcPoints": 0.0,
+        "placing": 3,
+        "losses": [
+            0
+        ],
+        "draws": [],
+        "faction": "Grey Knights "
+    },
+    {
+        "swissPoints": "1018",
+        "team": " ",
+        "wins": [
+            16
+        ],
+        "name": "Patrick Englett",
+        "itcPoints": 0.0,
+        "placing": 4,
+        "losses": [
+            2,
+            0
+        ],
+        "draws": [],
+        "faction": "Necrons "
+    },
+    {
+        "swissPoints": "1018",
+        "team": " ",
+        "wins": [
+            18
+        ],
+        "name": "Mike Y'barbo",
+        "itcPoints": 0.0,
+        "placing": 4,
+        "losses": [
+            0,
+            0
+        ],
+        "draws": [],
+        "faction": "Drukhari "
+    },
+    {
+        "swissPoints": "3",
+        "team": " ",
+        "wins": [],
+        "name": "Mike Fountaine",
+        "itcPoints": 0.0,
+        "placing": 6,
+        "losses": [
+            1,
+            2,
+            0
+        ],
+        "draws": [],
+        "faction": "Orks "
+    }
+]

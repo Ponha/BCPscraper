@@ -1,0 +1,190 @@
+{
+    "Unknown": [
+        " ",
+        "",
+        "  "
+    ],
+    "Asuryani": [
+        "Asuryani",
+        "Iyanden",
+        "Ulthwe",
+        "Alaitoc",
+        "Asuryani"
+    ],
+    "Tyranids": [
+        "Tyranids",
+        "Hive Fleet Gorgon",
+        "Hive Fleet Hyrda",
+        "Hive Fleet Hydra",
+        "Hive Fleet Behemoth",
+        "Hive Fleet Kraken",
+        "Hive Fleet Kronos",
+        "Hive Fleet Jormungandr",
+        "Hive Fleet Leviathan"
+    ],
+    "Death Guard": [
+        "Death Guard"
+    ],
+    "Chaos Space Marines": [
+        "Chaos Space Marines",
+        "Renegade Chaos Space Marines",
+        "Fallen",
+        "Night Lords",
+        "Red Corsairs",
+        "Emperor's Children",
+        "World Eaters",
+        "Alpha Legion",
+        "Black Legion",
+        "Iron Warriors"
+    ],
+    "Adeptus Custodes": [
+        "Adeptus Custodes"
+    ],
+    "Drukhari": [
+        "Drukhari",
+        "Coven of the Twelve",
+        "Cult of The Red Grief",
+        "Wych Cult",
+        "Cult of Strife",
+        "Haemonculous Coven",
+        "Kabal of the Poison Tongue",
+        "Kabal of the Obsidian Rose",
+        "Kabal of the Flayed Skull",
+        "Kabal of the Black Heart",
+        "Prophets of Flesh"
+    ],
+    "Necrons": [
+        "Necrons",
+        "Nihilakh",
+        "Maynarkh",
+        "Sautekh"
+    
+    ],
+    "Imperium": [
+        "Imperium",
+        "Aeronautica Imperialis"
+
+    ],
+    "Renegades and Heretics": [
+        "Renegades and Heretics"
+    ],
+    "Adepta Sororitas": [
+        "Adepta Sororitas"
+    ],
+    "Blood Angels": [
+        "Blood Angels",
+        "Flesh Tearers"
+    ],
+    "Chaos Daemons": [
+        "Chaos Daemons",
+        "Khorne Daemonkin",
+        "Slaanesh Daemons",
+        "Khorne Daemons",
+        "Nurgle Daemons",
+        "Tzeentch Daemons"
+    ],
+    "Adeptus Astartes": [
+        "Adeptus Astartes",
+        "Star Phantoms",
+        "Sons of Medusa",
+        "Mantis Warriors",
+        "Fire Hawks",
+        "Howling Griffons",
+        "Minotaurs",
+        "Novamarines",
+        "Astral Claws",
+        "Charcharodons",
+        "Red Scorpions",
+        "White Scars",
+        "Raptors",
+        "Crimson Fists",
+        "Iron Hands",
+        "Imperial Fists",
+        "Black Templars",
+        "Salamanders",
+        "Raven Guard",
+        "Ultramarines"
+        
+    ],
+    "Imperial Agents": [
+        "Imperial Agents",
+        "Officio Assassinorum",
+        "Inquisition",
+        "Adeptus Astra Telepathica",
+        "Adeptus Ministorum"        
+    ],
+    "Deathwatch": [
+        "Deathwatch"
+    ],
+    "Eldar Corsairs": [
+        "Eldar Corsairs"
+    ],
+    "Dark Angels": [
+        "Dark Angels",
+        "Deathwing",
+        "Ravenwing"
+    ],
+    "Adeptus Mechanicus": [
+        "Adeptus Mechanicus",
+        "Skitarii",
+        "Cult Mechanicus"
+    ],
+    "Thousand Sons": [
+        "Thousand Sons"
+    ],
+    "Space Wolves": [
+        "Space Wolves"
+    ],
+    "Dark Mechanicus": [
+        "Dark Mechanicus"
+    ],
+    "Tau Empire": [
+        "Tau Empire",
+        "Vior'La Sept",
+        "T'au Sept",
+        "Borkan Sept",
+        "Sa'cea Sept",
+        "Farsight Enclaves"
+    ],
+    "Knights Renegades": [
+        "Knights Renegades"
+    ],
+    "Astra Militarum": [
+        "Astra Militarum",
+        "Cadian Shock Troops",
+        "Catachan Jungle Fighters",
+        "Steel Legion",
+        "Tallarn",
+        "Elysian Drop Troops",
+        "Death Korps",
+        "Militarum Tempestus"
+    ],
+    "Imperial Knights": [
+        "Imperial Knights"
+    ],
+    "Genestealer Cult": [
+        "Genestealer Cult"
+    ],
+    "Chaos": [
+        "Chaos"
+    ],
+    "Aeldari": [
+        "Aeldari",
+        "Eldar Corsairs"
+    ],
+    "Orks": [
+        "Orks",
+        "Blood Axe",
+        "Goffs",
+        "Deathskulls"
+    ],
+    "Ynnari": [
+        "Ynnari"
+    ],
+    "Harlequins": [
+        "Harlequins"
+    ],
+    "Grey Knights": [
+        "Grey Knights"
+    ]
+}
