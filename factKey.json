@@ -35,7 +35,8 @@
         "World Eaters",
         "Alpha Legion",
         "Black Legion",
-        "Iron Warriors"
+        "Iron Warriors",
+        "Chaos"
     ],
     "Adeptus Custodes": [
         "Adeptus Custodes"
@@ -62,8 +63,12 @@
     ],
     "Imperium": [
         "Imperium",
-        "Aeronautica Imperialis"
-
+        "Aeronautica Imperialis",
+        "Imperial Agents",
+        "Officio Assassinorum",
+        "Inquisition",
+        "Adeptus Astra Telepathica",
+        "Adeptus Ministorum"
     ],
     "Renegades and Heretics": [
         "Renegades and Heretics"
@@ -106,18 +111,8 @@
         "Ultramarines"
         
     ],
-    "Imperial Agents": [
-        "Imperial Agents",
-        "Officio Assassinorum",
-        "Inquisition",
-        "Adeptus Astra Telepathica",
-        "Adeptus Ministorum"        
-    ],
     "Deathwatch": [
         "Deathwatch"
-    ],
-    "Eldar Corsairs": [
-        "Eldar Corsairs"
     ],
     "Dark Angels": [
         "Dark Angels",
@@ -127,16 +122,14 @@
     "Adeptus Mechanicus": [
         "Adeptus Mechanicus",
         "Skitarii",
-        "Cult Mechanicus"
+        "Cult Mechanicus",
+        "Dark Mechanicus"
     ],
     "Thousand Sons": [
         "Thousand Sons"
     ],
     "Space Wolves": [
         "Space Wolves"
-    ],
-    "Dark Mechanicus": [
-        "Dark Mechanicus"
     ],
     "Tau Empire": [
         "Tau Empire",
@@ -165,13 +158,6 @@
     "Genestealer Cult": [
         "Genestealer Cult"
     ],
-    "Chaos": [
-        "Chaos"
-    ],
-    "Aeldari": [
-        "Aeldari",
-        "Eldar Corsairs"
-    ],
     "Orks": [
         "Orks",
         "Blood Axe",
@@ -179,7 +165,9 @@
         "Deathskulls"
     ],
     "Ynnari": [
-        "Ynnari"
+        "Ynnari",
+        "Aeldari",
+        "Eldar Corsairs"
     ],
     "Harlequins": [
         "Harlequins"
