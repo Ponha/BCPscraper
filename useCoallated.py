@@ -297,4 +297,4 @@ if __name__ == "__main__":
     percent_representation = representation_per_faction(games_played_faction)
     total_wins_faction = win_ratio_per_faction(events)
     #print_bar_graph(total_wins_faction, y_lable = "Percent", title_= "Winrate of each faction 1 month", filename="BarGraphWinrate1Month.html")
-    #print_bar_graph(percent_representation, y_lable = "Percent", title_= "Representation of each faction 1 month", filename="BarGraphRepresentation1Month.html")
+    print_bar_graph(percent_representation, y_lable = "Percent", title_= "Representation of each faction 1 month", filename="BarGraphRepresentation1Month.html")

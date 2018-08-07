@@ -29,17 +29,29 @@ def writeToFile(text, filename, jsn=False):
         with open(filename, "w+") as f:
             f.write(json.dumps(text, indent=4, default=str))
 
+def already_scraped(alreadyScraped, event):
+    for x in alreadyScraped:
+        if event["eventId"] == x["eventId"]:
+            return True
+    return False
+
 if __name__ == "__main__":
-    events=[]
     with open("events.json", 'r') as f:
-       events = json.load(f)
+        events = json.load(f)
+    with open("eventsCoallated.json", 'r') as f:
+        alreadyScraped = json.load(f)
     events = filterEvents(events)#, datetime.date(2018,1,1))
     counter = 0
     total = len(events)
     for event in events:
-        counter += 1 
-        url = "https://www.bestcoastpairings.com/r/" + event["eventId"].split("/")[2]
-        event["results"] = scrapeEvent(url)
-        print("scraped: " + str(counter) + " / " + str(total) + ", current id: " + event["eventId"])
-        time.sleep(0.5)
-    writeToFile(events, "eventsCoallated.json", True)
+        if not already_scraped(alreadyScraped, event):
+            counter += 1 
+            url = "https://www.bestcoastpairings.com/r/" + event["eventId"].split("/")[2]
+            event["results"] = scrapeEvent(url)
+            if event["results"]:
+                alreadyScraped.append(event)
+                print("scraped: " + str(counter) + " / " + str(total) + ", current id: " + event["eventId"])
+                time.sleep(0.5)
+            else:
+                print("Event skipped, not yet reported")
+    writeToFile(alreadyScraped, "eventsCoallated.json", True)

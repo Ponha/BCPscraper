@@ -54,6 +54,10 @@ def scrapeEvent(url):
         for draw in draws:
             playerDict["draws"].append(int(draw.get_text()))
         list_of_players.append(playerDict)
+    if len(list_of_players) == 0:
+        return False
+    if len(list_of_players[0]["wins"]) == 0 and len(list_of_players[0]["losses"]) == 0:
+        return False
     return list_of_players
 
 if __name__ == "__main__":
